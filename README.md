@@ -26,4 +26,5 @@
 - Once the data is extracted we save it in a '.txt' file [ Company Name, Required Skills etc... ].
 - Finally we send the '.txt' file through email.
 
-
+[Screenshot of the data :](/images/img_1.png)
+![](https://github.com/giridhar04/Web-Scrapping/blob/main/images/img_1.png)
