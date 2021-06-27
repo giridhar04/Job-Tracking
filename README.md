@@ -34,3 +34,7 @@
 
 ![](https://github.com/giridhar04/Job-Tracking/blob/main/images/img_2.png)
 
+### Important Links :
+- https://www.freecodecamp.org/news/send-emails-using-code-4fcea9df63f/ 
+- https://realpython.com/python-send-email/ 
+- https://youtu.be/XVv6mJpFOb0
