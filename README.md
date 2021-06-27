@@ -26,11 +26,11 @@
 - Once the data is extracted we save it in a '.txt' file [ Company Name, Required Skills etc... ].
 - Finally we send the '.txt' file through email.
 
-[Screenshot of the data :](/images/img_1.png)
+#### Screenshot of the data : [Link](/images/img_1.png)
 
 ![](https://github.com/giridhar04/Job-Tracking/blob/main/images/img_1.png)
 
-[Screenshot of Email :](/images/img_2.png)
+#### Screenshot of Email : [Link](/images/img_2.png)
 
 ![](https://github.com/giridhar04/Job-Tracking/blob/main/images/img_2.png)
 
