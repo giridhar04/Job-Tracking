@@ -27,4 +27,10 @@
 - Finally we send the '.txt' file through email.
 
 [Screenshot of the data :](/images/img_1.png)
+
 ![](https://github.com/giridhar04/Web-Scrapping/blob/main/images/img_1.png)
+
+[Screenshot of Email :](/images/img_2.png)
+
+![](https://github.com/giridhar04/Web-Scrapping/blob/main/images/img_2.png)
+
